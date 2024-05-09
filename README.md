@@ -45,3 +45,5 @@ Overview YTD:
 • Overall Activation rate is 57.5% 
 
 • Overall Delinquent rate is 6.06% 
+
+Instructed By : @Rishabh Mishra , @Pavan Lalwani IN , @Chris Dutton , @Arron Parry
